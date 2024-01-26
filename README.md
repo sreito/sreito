@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreito
-- 👀 I’m interested in Fintech
-- 🌱 I’m currently learning Software Development
+- 👀 I do Fintech
+- 🌱 Software Development
 
 <!---
 sreito/sreito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
